@@ -2,3 +2,13 @@
 스타트캠프입니다
 내용을 추가하겠습니다
 다시한번추가
+
+
+
+echo "# startcamp01" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/jaeyoon3/startcamp01.git
+git push -u origin master
