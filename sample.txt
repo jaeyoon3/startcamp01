@@ -12,3 +12,5 @@ git commit -m "first commit"
 git branch -M master
 git remote add origin https://github.com/jaeyoon3/startcamp01.git
 git push -u origin master
+
+pull을 위한 것
